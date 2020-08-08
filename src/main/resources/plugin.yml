@@ -1,0 +1,8 @@
+name: MCAutoBots
+version: ${project.version}
+main: me.king.koala.mcautobots.MCAutoBots
+api-version: 1.16
+prefix: MC-AB
+softdepend: [WorldGuard, Towny]
+authors: [Emperor_Koala]
+description: Automated machines for mundane, repetitive tasks!
